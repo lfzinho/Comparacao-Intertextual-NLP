@@ -1,5 +1,6 @@
 # Comparação Intertextual usando modelos de NLP
 #### Trabalho Final da Disciplina de Visualização da Informação
+---
 
 Nesse trabalho, utlizamos modelos de NLP da biblioteca `NLTK` para Python para treinar diferentes modelos em 6 bases textuais distintas e fizemos comparações de similaridade de textos entre esses modelos usando uma pontuação própria. 
 
